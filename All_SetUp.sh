@@ -121,7 +121,7 @@ figlet -f slant 'BD-JAHIED' |lolcat
 echo
 echo
 echo 
-figlet -f slant 'WELLCOME TO BLACK HUNTER TEAM' |lolcat
+figlet -f slant 'WELLCOME' |lolcat
 echo
 echo
 echo
