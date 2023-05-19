@@ -117,11 +117,11 @@ apt install curl -y
 apt install proot -y
 
 
-figlet -f slant 'Mr-MAHIN' |lolcat
+figlet -f slant 'BD-JAHIED' |lolcat
 echo
 echo
 echo 
-figlet -f slant 'WELLCOME' |lolcat
+figlet -f slant 'WELLCOME TO BLACK HUNTER TEAM' |lolcat
 echo
 echo
 echo
